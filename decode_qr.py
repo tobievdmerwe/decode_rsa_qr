@@ -2,7 +2,7 @@
 # Author: Tobie van der Merwe
 # Date: 09/10/2021
 # Note: This works for version 1 of the QR code, might not work 
-#       for furute realeses if the structure changes.
+#       for future realeses if the structure changes.
 from PIL import Image
 from pyzbar import pyzbar
 import json
