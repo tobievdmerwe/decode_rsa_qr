@@ -21,3 +21,5 @@ Python program that decode the QR code and display the certificate details for t
 4. Open the script decode_qr.py and modify it to have your image name.
 
 5. Run script decode_qr.py to see the QR and certificate details.
+
+
